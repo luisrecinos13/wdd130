@@ -1,7 +1,17 @@
-html {
-    font-size: 62.5%;
+:root { 
+    --primary-color: #FFFFFF;
+    --secondary-color: #E1CE7A;
+    --accent-color: #424B54;
+    --accent2-color: #EBCFB2;
 }
 
-body {
-    font-size: 16px;
+header {
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+
 }
